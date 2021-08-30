@@ -20,7 +20,7 @@ Contributors get to contribute at their own pace, i.e. development for grand pro
 Community - Contributors INPUT/OUTPUT
 
 Blockchain technology
-Somewhat transparency
+Full transparency
 
 Value should arise over time
 Marketing/Developing - Producing vs Consuming
