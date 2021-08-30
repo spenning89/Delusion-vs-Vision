@@ -1,4 +1,5 @@
 # Delusion-vs-Vision
+Discord: https://discord.gg/WMSU4XQP
 
 Delusion manifesto
 
