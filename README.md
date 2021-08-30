@@ -14,6 +14,9 @@ Hype is real
 
 Communicate idea of creating value where there is no value > keep building on it
 
+Contributors create NFT's -> We assign wallet IDs in royalty parameter - if they get sold we generate royalty revenue for future transactions.
+Contributors get to contribute at their own pace, i.e. development for grand production of NFT for automated creation.
+
 Community - Contriburs INPUT/OUTPUT
 
 Blockchain technology
